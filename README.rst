@@ -29,5 +29,4 @@ Solve Boggles. Fast.
 
 Features
 --------
-`python setup.py install`
-`pyboggler`
+Install and run "pyboggler" on the shell
