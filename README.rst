@@ -31,11 +31,11 @@ Features
 --------
 
 * Download the repository and install
-```bash
+``bash
 python setup.py install
-```
+``
 
 * Run
-```bash
+``bash
 pyboggler
-```
+``
