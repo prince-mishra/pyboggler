@@ -30,5 +30,5 @@ Solve Boggles. Fast.
 Features
 --------
 
-* TODO
-
+* Download the repository and install `python setup.py install`
+* `pyboggler`
