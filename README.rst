@@ -29,7 +29,7 @@ Solve Boggles. Fast.
 
 Features
 --------
-```bash
+```
 python setup.py install
 pyboggler
 ```
